@@ -9,6 +9,8 @@ import xmlrpclib
 #'d'
 #'e'
 #'v1.0.2'
+#'v1.1.2'
+
 
 
 
